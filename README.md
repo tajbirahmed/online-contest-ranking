@@ -1,7 +1,6 @@
 # Online Contest Ranking
 
 ## Codeforces
----
 | Contest                                                                                                                                                                                           | Username      | Rank   | Solve Count | Type             | Scope    |
 | --                                                                                                                                                                                                | --------      | ----   | ----        | ----             |---       |
 | [Codeforces Round 648 (Div. 2)](https://codeforces.com/contest/1365/standings/participant/66780630#p66780630)                                                                                     | _tajbir       | 10931  | 2           | Individual       | Online   |
@@ -45,3 +44,8 @@
 | [Codeforces Round 897 (Div. 2)](https://codeforces.com/contest/1867/standings/participant/163453185#p163453185)                                                           | _tajbir       |   6351 | 2           | Individual       | Online   |
 | [Codeforces Round 900 (Div. 3)](https://codeforces.com/contest/1878/standings/participant/164564638#p164564638)                                                           | _tajbir       |   5216 | 3           | Individual       | Online   |
 | [2023-2024 ICPC, Asia Jakarta Regional Contest (Online Mirror, Unrated, ICPC Rules, Teams Preferred)](https://codeforces.com/contest/1906/standings/participant/169073926#p169073926)                                                           | Cu_nameless       |   417 | 1           | Team       | Online   |
+| [Codeforces Round 920 (Div. 3)](https://codeforces.com/contest/1921/standings/participant/172062404#p172062404)                                                           | _tajbir       |   10818 | 3           | Individual       | Online   |
+| [Codeforces Round 926 (Div. 2)](https://codeforces.com/contest/1929/standings/participant/174356729#p174356729)                                                           | _tajbir       |   6416 | 2           | Individual       | Online   |
+| [Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)](https://codeforces.com/contest/2062/standings/participant/202484714#p202484714)                                                           | _tajbir       |   11855 | 2           | Individual       | Online   |
+| [Neowise Labs Contest 1 (Codeforces Round 1018, Div. 1 + Div. 2)](https://codeforces.com/contest/2096/standings/participant/208870065#p208870065)                                                           | _tajbir       |   8737 | 1           | Individual       | Online   |
+| [Codeforces Round 1019 (Div. 2)](https://codeforces.com/contest/2103/standings/participant/209022933#p209022933)                                                           | _tajbir       |   5645 | 2           | Individual       | Online   |
