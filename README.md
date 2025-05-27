@@ -1,6 +1,8 @@
 # Online Contest Ranking
 
-## Codeforces
+## Codeforces [🔗](https://codeforces.com/profile/_tajbir?graphType=all)
+
+
 | Contest                                                                                                                                                                                           | Username      | Rank   | Solve Count | Type             | Scope    |
 | --                                                                                                                                                                                                | --------      | ----   | ----        | ----             |---       |
 | [Codeforces Round 648 (Div. 2)](https://codeforces.com/contest/1365/standings/participant/66780630#p66780630)                                                                                     | _tajbir       | 10931  | 2           | Individual       | Online   |
@@ -49,3 +51,20 @@
 | [Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)](https://codeforces.com/contest/2062/standings/participant/202484714#p202484714)                                                           | _tajbir       |   11855 | 2           | Individual       | Online   |
 | [Neowise Labs Contest 1 (Codeforces Round 1018, Div. 1 + Div. 2)](https://codeforces.com/contest/2096/standings/participant/208870065#p208870065)                                                           | _tajbir       |   8737 | 1           | Individual       | Online   |
 | [Codeforces Round 1019 (Div. 2)](https://codeforces.com/contest/2103/standings/participant/209022933#p209022933)                                                           | _tajbir       |   5645 | 2           | Individual       | Online   |
+
+## Codechef [🔗](https://www.codechef.com/users/tajbir123)
+
+
+| Contest                                                                                                                                                                                           | Username      | Global Rank   | Solve Count | Type             | Scope    |
+| --                                                                                                                                                                                                | --------      | ----   | ----        | ----             |---       |
+| [October Cook-Off 2021 Division 3](https://www.codechef.com/rankings/START117C?itemsPerPage=100&order=asc&page=1&search=tajbir&sortBy=rank)                                                                                     | tajbir123       | 579  | 3           | Individual       | Online   |
+| [Code Senso Division 3 (Rated)](https://www.codechef.com/rankings/CSNS21C?itemsPerPage=100&order=asc&page=1&search=tajbir&sortBy=rank)                                                                                     | tajbir123       | 1871  | 2           | Individual       | Online   |
+| [July Lunchtime 2022 Division 3 (Rated)](https://www.codechef.com/rankings/LTIME110C?itemsPerPage=100&order=asc&page=1&search=tajbir&sortBy=rank)                                                                                     | tajbir123       | 973  | 3           | Individual       | Online   |
+| [Starters 71 Division 3 (Rated)](https://www.codechef.com/rankings/START71C?itemsPerPage=100&order=asc&page=1&search=tajbir&sortBy=rank)                                                                                     | tajbir123       | 2121  | 3           | Individual       | Online   |
+| [Starters 73 Division 3 (Rated)](https://www.codechef.com/rankings/START73C?itemsPerPage=100&order=asc&page=1&search=tajbir&sortBy=rank)                                                                                     | tajbir123       | 1998  | 2           | Individual       | Online   |
+| [*Starters 97 Division 3 (Rated)](https://www.codechef.com/rankings/START73C?itemsPerPage=100&order=asc&page=1&search=tajbir&sortBy=rank)                                                                                     | tajbir123       | 155  | 4           | Individual       | Online   |
+| [Starters 115 Division 2 (Rated)](https://www.codechef.com/rankings/START115B?itemsPerPage=100&order=asc&page=1&search=tajbir&sortBy=rank)                                                                                     | tajbir123       | 1079  | 3           | Individual       | Online   |
+| [Starters 116 Division 2 (Rated)](https://www.codechef.com/rankings/START116B?itemsPerPage=100&order=asc&page=1&search=tajbir&sortBy=rank)                                                                                     | tajbir123       | 1519  | 2           | Individual       | Online   |
+| [Starters 117 Division 2 (Rated)](https://www.codechef.com/rankings/START117C?itemsPerPage=100&order=asc&page=1&search=tajbir&sortBy=rank)                                                                                     | tajbir123       | 579  | 3           | Individual       | Online   |
+
+
